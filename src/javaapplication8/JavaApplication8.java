@@ -18,6 +18,8 @@ public class JavaApplication8 {
         System.out.println("Hola mundo como estan");
         System.out.print("hello ");
         System.out.print("hello a ");
+        System.out.print("hello a ");
+        System.out.print("hello a ");
     }
     
 }
